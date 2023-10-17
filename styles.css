@@ -18,6 +18,14 @@ body {
   backdrop-filter: blur(3px);
 }
 
+.title h1 {
+  text-align: center;
+  color: white;
+  font-size: 90px;
+  text-shadow: 2px 2px 4px #000000;
+  margin-top: 50px;
+}
+
 .container {
   position: relative;
   border: 1px solid rgba(0, 0, 0, 0.58);
